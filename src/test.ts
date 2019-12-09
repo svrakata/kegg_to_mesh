@@ -1,0 +1,1 @@
+const phrase = [ "belle", "belle clair", "belle flour", "belle clair root", "belle clair root coal", "rich", "rich junkey", "rich monk" ]
